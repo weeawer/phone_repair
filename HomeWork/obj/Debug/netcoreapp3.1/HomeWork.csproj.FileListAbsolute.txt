@@ -1,0 +1,77 @@
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/bin/Debug/netcoreapp3.1/HomeWork.deps.json
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/bin/Debug/netcoreapp3.1/HomeWork.runtimeconfig.json
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/bin/Debug/netcoreapp3.1/HomeWork.runtimeconfig.dev.json
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/bin/Debug/netcoreapp3.1/HomeWork.dll
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/bin/Debug/netcoreapp3.1/HomeWork.pdb
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.csprojAssemblyReference.cache
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.AssemblyInfoInputs.cache
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.AssemblyInfo.cs
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.csproj.CoreCompileInputs.cache
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.dll
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.pdb
+/Users/konstantin.krukhmalev/RiderProjects/Solution1/HomeWork/HomeWork/obj/Debug/netcoreapp3.1/HomeWork.genruntimeconfig.cache
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Documents\Electronic Arts\The Sims 4\Mods\Archive\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Downloads\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Downloads\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\debil\Downloads\LR_7777777777777777777777777\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\danil_popkov\Desktop\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\daun\Downloads\lrrr (3)\lrrr\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
